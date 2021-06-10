@@ -1,0 +1,16 @@
+{
+"companyName": "Yuzhou",
+"productName": "Youniverse Wheel",
+"productVersion": "7777777",
+"dataUrl": "YouniverseWheel.data.unityweb",
+"wasmCodeUrl": "YouniverseWheel.wasm.code.unityweb",
+"wasmFrameworkUrl": "YouniverseWheel.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#647C80",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.27f1"
+}
